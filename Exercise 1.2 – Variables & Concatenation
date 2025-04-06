@@ -1,0 +1,12 @@
+1. Create a new PHP file: intro.php
+
+2. Define these variables:
+
+  $name = your name
+  
+  $age = your age
+  
+  $school = your school name
+
+3. Use variables to print a sentence like:
+Hello! My name is Alice, I am 20 years old, and I study at Rwanda Polytechnic.
