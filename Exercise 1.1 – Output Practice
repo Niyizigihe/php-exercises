@@ -1,0 +1,10 @@
+1. Create a PHP file named hello.php
+
+2. Inside it, print the following: Your name, Your country, Your dream profession, Current year
+
+Expected output format:
+
+My name is John.
+I am from Rwanda.
+I want to become a professional developer.
+The year is 2025.
