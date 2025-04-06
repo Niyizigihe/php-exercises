@@ -1,0 +1,8 @@
+Create a file called calculator.php. It should:
+1.	Define three variables:
+    $num1 = 10
+    $num2 = 4
+    $operation = '+' (try with other values too: '-', '*', '/')
+2.	Using if or switch, perform the correct operation and display the result:
+10 + 4 = 14
+Handle division by zero safely.
