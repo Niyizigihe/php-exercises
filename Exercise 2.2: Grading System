@@ -1,0 +1,13 @@
+Create a file grading.php. Inside it:
+1.	Create a variable $marks and assign it a random number between 0 and 100.
+2.	Write logic using if, elseif, else to grade as follows:
+    90–100: A+
+    80–89: A
+    70–79: B
+    60–69: C
+    50–59: D
+    Below 50: Fail
+
+3.	Output something like:
+Score: 76
+Grade: B
