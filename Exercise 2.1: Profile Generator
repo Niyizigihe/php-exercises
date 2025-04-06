@@ -1,0 +1,14 @@
+Create a PHP file called profile.php. In this file:
+1.	Define the following variables:
+    $fullName (string)
+    $birthYear (int)
+    $currentYear (use date("Y") to get it dynamically)
+    $isStudent (boolean)
+    $schoolName (string)
+
+2.	Calculate the age of the person.
+3.	Display a full profile message. If $isStudent is true, say:
+    Hello, my name is [fullName], I am [age] years old, and I study at [schoolName].
+
+If $isStudent is false, say:
+    Hello, my name is [fullName], I am [age] years old, and I am not currently studying.
